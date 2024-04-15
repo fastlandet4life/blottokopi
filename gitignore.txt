@@ -1,0 +1,10 @@
+svar/
+Thumbs.db
+unused/
+.ipynb_checkpoints/
+__pycache__/
+.vscode
+strategies.py
+challenge.txt
+run.py
+run2.py
